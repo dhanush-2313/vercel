@@ -4,7 +4,7 @@ This repository contains a simple demo project for deploying applications to Ver
 
 ## Overview
 
-This project serves as a demonstration of deploying a basic web application to Vercel, a cloud platform for hosting serverless functions and static sites. By leveraging Vercel's seamless integration with GitHub, you can automate the deployment process and easily manage your deployments directly from your GitHub repository.
+This project showcases deployment to Vercel using GitHub integration illustrating deployment processes via Cloudflare or AWS S3. Learn how to automate deployment processes and manage deployments directly from your GitHub repository. Perfect for exploring serverless functions and static site hosting on Vercel
 
 ## Getting Started
 
