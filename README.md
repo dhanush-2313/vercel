@@ -6,6 +6,10 @@ This repository contains a simple demo project for deploying applications to Ver
 
 This project showcases deployment to Vercel using GitHub integration illustrating deployment processes via Cloudflare or AWS S3. Learn how to automate deployment processes and manage deployments directly from your GitHub repository. Perfect for exploring serverless functions and static site hosting on Vercel
 
+##Important Note!
+
+This works only for react projects or raw html css javascript projects, it does not support server side rendering
+
 ## Getting Started
 
 To get started with deploying your own applications to Vercel, follow these steps:
